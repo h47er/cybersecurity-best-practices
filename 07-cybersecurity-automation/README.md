@@ -1,4 +1,4 @@
-# 🛡️ 07. Cybersecurity Automation & Autonomous AI Agents
+# 🛡️. Cybersecurity Automation & Autonomous AI Agents
 
 > **Focus Areas:** Autonomous Systems, Multi-Agent SOC, Machine-Speed Containment, Threat Intelligence Mapping, and Automated Incident Reporting.
 
