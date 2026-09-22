@@ -1,13 +1,13 @@
 # 🛡️ Cybersecurity Best Practices & Operations Guide
 
 > **A Comprehensive Reference Guide for First-Year Cybersecurity Specialists & SOC Analysts**  
-> Focus Areas: **SIEM & Logging**, **Next-Gen Firewalls**, **VPN & Zero-Trust Access**, **Azure IAM**, **Patch Management**, and **Incident Teamwork**.
+> Focus Areas: **SIEM & Logging**, **Next-Gen Firewalls**, **VPN & Zero-Trust Access**, **Azure IAM**, **Patch Management**, **Incident Teamwork**, and **AI & Cyber Automation**.
 
 ---
 
 ## 📌 About This Repository
 
-This repository serves as a practical, field-tested reference manual and portfolio covering six essential pillars of enterprise cybersecurity operations. It is designed to bridge the gap between theoretical knowledge and real-world SOC/Infosec workflows.
+This repository serves as a practical, field-tested reference manual and portfolio covering key pillars of enterprise cybersecurity operations. It is designed to bridge the gap between theoretical knowledge and real-world SOC/Infosec workflows.
 
 ---
 
@@ -21,7 +21,8 @@ graph TD
     A --> E[04. Azure IAM & Access]
     A --> F[05. Patch Management]
     A --> G[06. Cyber Teamwork]
-    A --> H[Operational Templates]
+    A --> H[07. Cyber Automation & AI Agents]
+    A --> I[Operational Templates]
 ```
 
 | Domain | Description | Key Topics | Quick Link |
@@ -32,6 +33,7 @@ graph TD
 | **04. Azure IAM** | Identity management, RBAC, and access control in Microsoft Entra ID. | PoLP, Conditional Access, PIM, FIDO2 | [View Module](04-azure-iam/README.md) |
 | **05. Patch Management** | Vulnerability prioritization, SLA enforcement, and ring deployments. | CVSS/EPSS, Testing Rings, Rollback Plan | [View Module](05-patch-management/README.md) |
 | **06. Cyber Teamwork** | Cross-functional SOC communication, shift handovers, and IR. | Incident Tickets, Shift Handovers, Post-Mortems | [View Module](06-cyber-teamwork/README.md) |
+| **07. Cyber Automation** | Autonomous AI agents, threat monitoring, containment & auto-reporting. | Multi-Agent SOC, EDR Blocking, MITRE ATT&CK, Auto Incident Reports | [View Module](07-cybersecurity-automation/README.md) |
 
 ---
 
